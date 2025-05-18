@@ -38,11 +38,12 @@ Keep code clean and documented. Use consistent naming (e.g., snake_case) and fol
 
 ### 4.🧪Test It
 
-Run the bot locally and test your feature:
+Make sure your bot runs successfully on your local machine before pushing your changes. You'll also want to confirm your feature works in your intended use case (e.g., new member joins, role assignment, etc.).
 
 ```bash
 python welcomancer.py
 ```
+>🔄 *Note: Welcomancer is intended to be deployed on a hosting platform for 24/7 uptime. We recommend platforms like Railway or Render. Make sure your changes are deploy-friendly (e.g., don't rely on local file paths or manual CLI prompts).*
 
 ### 5.✅Commit and Push
 
