@@ -17,7 +17,19 @@
 - 📜 **Audit log for joins, bans, and kicks** *(currently planned)*
   
 ---
+## 🌐 Deployment
+Welcomancer is intended to run continuously, which mean hosting it on a platform that keeps the bot online 24/7. 
+If you're new to deployment (like I was when I started this), some beginnger-freindly options include:
 
+- [Railway](https://railway.com/pricing) – beginner-friendly with GitHub integration, hobby teir, discord bot templates and free-teir grant
+- [Hostinger VPS](https://www.hostinger.com/tutorials/how-to-host-discord-bot) - Using Hosting VPS could be an option as Hostinger provides an easy to follow guide for `discord.py` bots. 
+- Other VPS hosting - There are many options for virtual private servers, open a [discussion](https://github.com/SemanticAntelope/Welcomancer-bot/discussions/categories/general-discussion-about-welcomancer) to ask about other's experiences
+>🐾🪶I'm still exploring the best options myself, so if you have feedback or run into issues deploying, feel free to open a discussion or issue. I'm learning too.
+> ---
+>⚠️Local execution (python welcomancer.py) is fine for development, but not suitable for production use unless you keep your machine on and connected 24/7.
+
+
+---
 ## 📦 Setup
 
 ### 🛠️ Requirements
