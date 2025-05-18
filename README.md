@@ -1,6 +1,6 @@
 # 🛡️✨ Welcomancer: A Discord Welcome + Bouncer Bot
 
-**Welcomancer** is a is a ~lightweight~ Discord bot built in Python using `discord.py`. Best for single guild servers with a focus on per-server customization. It combines the charm of a greeter with the vigilance of a digital bouncer.
+**Welcomancer** is a is a lightweight Discord bot built in Python using `discord.py`. Best for single guild servers with a focus on per-server customization. It combines the charm of a greeter with the vigilance of a digital bouncer.
 
 ---
 
